@@ -1,0 +1,35 @@
+<project
+	xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>net.sf.tinylaf</groupId>
+	<artifactId>tinylaf</artifactId>
+	<version>1.4.0</version>
+	<packaging>jar</packaging>
+	<name>Tiny Look and Feel</name>
+	<description>  
+		TinyLaF is a (mostly painted) Look and Feel for Java 1.4 and higher.  TinyLaF can look somewhat 
+		like Windows XP but runs on all platforms supporting Java. With the assistance of the control 
+		panel you can define the component's colors, fonts and (partially) behaviour and thus create 
+		your own themes. 
+  	</description>
+	<url>http://www.muntjak.de/hans/java/tinylaf/index.html</url>
+	<licenses>
+		<license>
+			<name>GNU Lesser General Public License</name>
+			<url>http://www.gnu.org/licenses/lgpl.html</url>
+			<distribution>repo</distribution>
+		</license>
+	</licenses>
+	<scm>
+		<url>http://tinylaf.svn.sourceforge.net/viewvc/tinylaf/</url>
+		<connection>https://tinylaf.svn.sourceforge.net/svnroot/tinylaf</connection>
+	</scm>
+	<developers>
+		<developer>
+			<name>Hans Bickel</name>
+		</developer>		
+	</developers>
+</project>
+
